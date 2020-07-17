@@ -17,7 +17,7 @@
 - 用户支持QQ群**（桌面级四足机器狗交流群 PY PY DOG）：1071643412**
 - 讨论论坛（机器狗工坊）：http://www.leggedrobot.cn/forum.php?mod=forumdisplay&fid=44
 
-## 4 **Py-Apple Structure **项目搭建方法
+## 4 Py-Apple Structure 项目搭建方法
 
 - 第一步：根据用途和需求，下载本 Github 中你需要的机械结构（串联腿/并连腿）
 - 第二步：项目提供 STP 可编辑文件及 STL 可直接3D打印文件，你可以选择通过这些文件修改或直接打印出整个机器人
