@@ -42,17 +42,11 @@
 -  需要的功能设想和bug可以发布到 Issue list [点击进入 ISSUE LIST](https://github.com/ToanTech/py-apple-structure/issues)
 -  有其他参与问题需要联系项目管理及贡献者 ：[点击查看联系方式](contributors_m.md)
 
-## 8 开源协议
-
-**Py-Apple Structure** 项目采用 Apache 许可证，版本 2.0
-
-[点击查看完整协议文档](LICENSE)
-
-## 9 当前 Py-Apple Structure 版本特点
+## 8 当前 Py-Apple Structure 版本特点
 
   目前的最新的版本是 **Py-Apple Structure V10.0** 
 
-#### 9.1 Py-Apple Structure V10.0 串联腿（菠萝二代）
+#### 8.1 Py-Apple Structure V10.0 串联腿（菠萝二代）
 
 - 完善稳定的机械结构，经过多次生产验证
 - 更加耐用
@@ -60,7 +54,7 @@
 - 腿部快速安装，安装快速简易
 - 外观相对于7.0进行了大改，更加贴近当下流行的四足机器人
 
-#### 9.2 Py-Apple Structure V7.0 串联腿
+#### 8.2 Py-Apple Structure V7.0 串联腿
 
 - 完善稳定的机械结构，经过多次生产验证，支持大腿轴承安装，提升了整体运动部件的强度和刚度。
 - 更加耐用
@@ -68,17 +62,17 @@
 - 腿部快速安装，安装快速简易
 - 外观仿 MIT cheetah
 
-#### 9.3 Py-Apple Structure V7.0 串联腿
+#### 8.3 Py-Apple Structure V7.0 串联腿
 
 - 完善稳定的机械结构，经过多次生产验证，支持大腿轴承安装，提升了整体运动部件的强度和刚度。
 - 更加耐用
 - 外观仿 Stanford Doggo
 
-#### 9.4 Py-Apple Structure 无刷版本 V0.1腿部设计
+#### 8.4 Py-Apple Structure 无刷版本 V0.1腿部设计
 
 - 测试版本无刷并联腿部结构
 - 采用 Ipower 4008 无刷电机
 
-#### 9.5 misaka版本菠萝兼容结构
+#### 8.5 misaka版本菠萝兼容结构
 
 - 基于一代菠萝的碳纤维改进版本极轻量化菠萝狗机械结构
